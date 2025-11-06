@@ -13,7 +13,7 @@ typedef struct {
     int id;
 } Peca;
 
-/* LPvaultHUnter/*
+// LPvaultHUnter//
 // ------------------ FILA CIRCULAR ------------------
 typedef struct {
     Peca itens[TAM_FILA];
